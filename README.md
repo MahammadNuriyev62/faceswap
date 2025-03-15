@@ -198,9 +198,8 @@ Here's a step-by-step visual demonstration of how the application works:
 ### Tips for Better Results
 
 - Try to match the facial expression in your source image with the target face's expression
+- Match the facial orientation/pose - if the target face is looking to the side or at an angle, use a source image with a similar head position
 - If possible, use source and target images with similar lighting conditions
-- Front-facing, neutral or similar expressions work best
-- You may need to experiment with different source images if results aren't satisfactory
 
 ## Technical Notes
 
