@@ -165,6 +165,31 @@ python main.py
 5. **Swap Faces**: Click "Swap Faces" to perform the face swap operation
 6. **Save Result**: Click "Save Result" to save the final image
 
+### Visual Walkthrough
+
+Here's a step-by-step visual demonstration of how the application works:
+
+1. **Loading source and target images**: The source face is loaded, and faces are detected in the target image
+
+    <img src="./assets/readme/step1.png" alt="Loading source and target images" width="500px">
+
+2. **Face Detection**: Detecting faces in the source and target images
+
+   <img src="./assets/readme/step2.png" alt="Face Detection" width="500px">
+
+3. **Face Selection**: Selecting the target face to replace with the source face
+
+    <img src="./assets/readme/step3.png" alt="Face Selection" width="500px">
+
+4. **Face Swapping**: The source face is swapped with the selected target
+
+    <img src="./assets/readme/step4.png" alt="Face Swapping" width="500px">
+
+5. **Result**: Saving the final image with the swapped face
+
+    <img src="./assets/readme/step5.png" alt="Result" width="200px">
+
+
 ### Optional Features
 
 - **Crop Source/Target**: Use these buttons to manually crop the images if needed
