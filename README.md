@@ -116,7 +116,7 @@ flowchart TD
 
 ## Requirements
 
-- Python 3.6+
+- Python 3.10+
 - OpenCV (cv2)
 - NumPy
 - InsightFace
