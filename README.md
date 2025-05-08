@@ -190,6 +190,10 @@ Here's a step-by-step visual demonstration of how the application works:
     <img src="./assets/readme/step5.png" alt="Result" width="200px">
 
 
+### Next Steps 🔥🔥🔥
+- Send this photo to Sora or other `image-to-video` model and create a cool videos of yourself!
+
+
 ### Optional Features
 
 - **Crop Source/Target**: Use these buttons to manually crop the images if needed
